@@ -1,4 +1,4 @@
-class UtopiopsCli < Formula
+class Utopiops < Formula
   desc "CLI tool for utopiops.com"
   homepage "https://www.utopiops.com/"
   url "https://github.com/utopiops/homebrew-utopiops/releases/download/fresh/utopiops-0.0.2.tar.gz"
