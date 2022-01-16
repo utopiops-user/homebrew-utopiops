@@ -1,8 +1,8 @@
 class Utopiops < Formula
   desc "CLI tool for utopiops.com"
   homepage "https://www.utopiops.com/"
-  url "https://github.com/utopiops/homebrew-utopiops/releases/download/fresh/utopiops-0.0.2.tar.gz"
-  sha256 "8afd60017e3ed33a865ab681c05c0472bd8caddef188d8fde32ceab643b70b24"
+  url "https://github.com/utopiops/homebrew-utopiops/releases/download/fresh/utopiops-0.0.3.tar.gz"
+  sha256 "76267f9feff31860ba0d576a09075c1afb7e0e59266ab89037bf4db79301b364"
 
   def install
     bin.install "utopiops"
